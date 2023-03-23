@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/kismail_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kismail_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ismail kokole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail kokole" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kokole ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kokole ismail" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kokoleismail912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kokoleismail912" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
