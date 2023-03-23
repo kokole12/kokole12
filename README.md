@@ -2,8 +2,8 @@
 
 
 
-🔭 I’m currently working on AirBnB clone web Application
-🌱 I’m currently learning Python, Javascript and C
+- 🔭 I’m currently working on AirBnB clone web Application
+- 🌱 I’m currently learning Python, Javascript and C
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
