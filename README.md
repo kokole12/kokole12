@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/kismail_" target="blank"><img src="https://img.shields.io/twitter/follow/kismail_?logo=twitter&style=for-the-badge" alt="kismail_" /></a> </p>
 
+- 🔭 I’m currently working on [AirBnB clone web application](https://github.com/kokole12/BloodBridge_v2)
+
 - 🔭 I’m currently working on [AirBnB clone web application](https://github.com/kokole12/AirBnB_clone_v2)
 
 - 🌱 I’m currently learning **Python, Javascript and C. Flask and Node js**
