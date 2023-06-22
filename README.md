@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Blood donation application BloodBridge](https://github.com/kokole12/BloodBridge_v2)
 
-- 🔭 I’m currently working on [AirBnB clone web application](https://github.com/kokole12/AirBnB_clone_v2)
+- 🔭 I’m recently worked on [AirBnB clone web application](https://github.com/kokole12/AirBnB_clone_v2)
 
 - 🌱 I’m currently learning **Python, Javascript and C. Flask and Node js**
 
